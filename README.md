@@ -1,6 +1,6 @@
 
 
-# DEPL_AI_5 - Amit
+# DEPI_AI_5 - Amit
 
 ## Project Overview
 
