@@ -1,6 +1,6 @@
 from person import Person
 
-class staff (Person):
+class Staff (Person):
 
     """Represents hospital staff with name, age, and position attributes."""
 
